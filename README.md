@@ -1,4 +1,7 @@
 # SixpennyCommands
+
+**NOTE:** Repo has just been created. Code will be uploaded soon!
+
 A Simple Bedrock Realms Management System, designed to make the management of minecraft realms easy! Q&A at the end of this README.
 
 ## Features
