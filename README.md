@@ -52,11 +52,3 @@ A: As and when. Unfortunately I am also very busy with other projects, however I
 **Q: Is this project "owned" by anyone/can I become a developer for it?**
 
 A: Nope, this project is not "owned" by anyone, it is entirely independent and volunteer-based. If you wish to become a developer please feel free! Join the discord server above and ping me in the sixpennycommands channel with your application request and I'll look into it. Please note that any position on the developer team will be entirely voluntary (I.E: Not paid).
-
-**Q: Do you make any money from this project?**
-
-A: Nope.
-
-**Q: Why did you make this project & Why is it called "SixpennyCommands"?**
-
-A: I am a realm owner myself and wanted a system to be able to manage my realm more eaily and it is called SixpennyCommands as it relates to my minecraft IGN (Username).
